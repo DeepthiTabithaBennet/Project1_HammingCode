@@ -264,9 +264,6 @@ int main(){
         cout << endl;
         r.correct();
     }
-    
-    cout << endl << "Enter another code ? (Y / N) : ";
-    cin >> ch;
-    
+        
     return 0;
 }
