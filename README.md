@@ -1,7 +1,13 @@
 <img src="https://img.shields.io/badge/-C++-050F2C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="30">
 
 
-## Project1_HammingCode
+## Project1_HammingCode - Hamming Encoder and Decoder
+
+![image](https://user-images.githubusercontent.com/71541429/128601631-85bc3b18-0cd5-4f91-b5bc-c656f359e9bb.jpeg)
+
+
+
+
 
 ## Features of the Code :
 * Encodes Binary Data into Hamming Code, using a suitable number of Parity Bits in appropriate positions.
