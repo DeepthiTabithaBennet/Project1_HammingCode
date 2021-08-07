@@ -16,7 +16,7 @@
 * The code also displays the length of the Encoded Data (Data Bits + Parity Bits)
 * Data Extraction from Hamming Encoded Sequences is also performed by this code.
 * Variable-length Transmitted Sequences can be Decoded.
-* The Received Sequence is checked for Errors
+* The Received Sequence is checked for Errors.
 * If no Errors have occurred in transmission, the Decoded Binary Sequence is displayed.
 * Single Bit Errors in Received Data are Detected (if present), the Error Bit is located and displayed.
 * Received Data Sequences with Single Bit Errors are Corrected and the correct Binary Data is displayed.
