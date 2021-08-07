@@ -20,3 +20,5 @@
 * If no Errors have occurred in transmission, the Decoded Binary Sequence is displayed.
 * Single Bit Errors in Received Data are Detected (if present), the Error Bit is located and displayed.
 * Received Data Sequences with Single Bit Errors are Corrected and the correct Binary Data is displayed.
+
+### Please leave a 🌟 before you fork / clone this repo! 😃
