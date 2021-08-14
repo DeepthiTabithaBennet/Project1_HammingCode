@@ -1,4 +1,5 @@
-<img src="https://img.shields.io/badge/-C++-050F2C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="30">
+<img src="https://badges.pufler.dev/visits/DeepthiTabithaBennet/Project1_HammingCode?style=flat-square&color=blue" alt="https://github.com/DeepthiTabithaBennet" width="75" />     <img src="https://img.shields.io/badge/-C++-050F2C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="30">
+
 
 
 ## Project1_HammingCode - Hamming Encoder and Decoder
