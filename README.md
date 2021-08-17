@@ -1,6 +1,6 @@
-[![License: MIT](https://img.shields.io/badge/License-BSD_3_Clause-050F2C.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-BSD_3_Clause-blue.svg?style=for-the-badge)](https://opensource.org/licenses/BSD-3-Clause)
 
-<img src="https://img.shields.io/badge/-C++-050F2C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="30">
+<img src="https://img.shields.io/badge/-C++-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="30">
 
 ## Project1_HammingCode - Hamming Encoder and Decoder
 
