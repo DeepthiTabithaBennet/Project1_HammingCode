@@ -6,6 +6,8 @@
 
 ![image](https://user-images.githubusercontent.com/71541429/128601631-85bc3b18-0cd5-4f91-b5bc-c656f359e9bb.jpeg)
 
+## Demo : [Click Here!](https://drive.google.com/file/d/1GQSKhRZV8VZxYJol_QrJWVjDOM40bBzO/view?usp=drivesdk)
+
 ## Features of the Code :
 * Encodes Binary Data into Hamming Code, using a suitable number of Parity Bits in appropriate positions.
 * Variable-length Data Input Sequences can be Encoded successfully.
